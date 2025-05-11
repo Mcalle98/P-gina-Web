@@ -12,8 +12,10 @@
 <body id="home">
 
     <!-- Contenido del sitio web visible en el navegador -->
-        <h1>Título de mi proyecto</h1>
-        <h2>Descripción de mi proyecto</h2>
+        <h1>The Last of Us</h1>
+        <h2>Este es el sitio oficial de nuestra revista sobre The Last of Us. Si te encanta el juego, acá vas a encontrar todo lo que te interesa: curiosidades, entrevistas, teorías locas, arte genial y las últimas novedades del mundo postapocalíptico de Joel y Ellie. Todo en un solo lugar, hecho por y para fans.
+
+</h2>
 
         <nav>
             <a href="seccion1.html">Sección 1</a>
